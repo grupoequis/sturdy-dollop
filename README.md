@@ -1,7 +1,8 @@
 # sturdy-dollop <br />
 TFTP PROJECT REPO  <br />
 --RFC 1350 compliant. <br />
---to be compiled with GCC on a GNU/Linux system. <br />
+--server to be compiled with GCC on a GNU/Linux system. <br />
+--client to be run on python3.  <br />
 --usage is similar to gnu's TFTP implementation <br />
 // <br />
 Client commands: <br />
